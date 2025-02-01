@@ -44,6 +44,8 @@ LINE_HEIGHTS = {
     si.ParagraphStyle.BULLET: 35,
     si.ParagraphStyle.BOLD: 70,
     si.ParagraphStyle.HEADING: 150,
+    si.ParagraphStyle.CHECKBOX: 70,
+    si.ParagraphStyle.CHECKBOX_CHECKED: 70,
 
     # There appears to be another format code (value 0) which is used when the
     # text starts far down the page, which case it has a negative offset (line
